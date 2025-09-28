@@ -167,3 +167,5 @@ This project is for educational and research purposes. Please cite appropriately
 ---
 
 *Note: This implementation serves as both a statistical analysis exercise and a foundation for developing real estate price monitoring systems.*
+---
+You can reach me at [Othman.BIBI@emines.um6p.ma](Othman.BIBI@emines.um6p.ma)
